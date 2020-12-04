@@ -1,0 +1,4 @@
+POST http://localhost:7071/admin/functions/StartScraperTimerTriggerClient
+Content-Type: application/json
+
+{}
